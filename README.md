@@ -15,7 +15,7 @@ Si un membre essaie d'imprimer plus que sa limite, l'imprimante n'acceptera pas 
    
    -Empêcher l'impression si le nombre total de feuilles imprimées atteint 1000.
 ## Utilisation 
-1. Cloner le dépôt GitHub: git clone 'https://github.com/rami-mehaibia/Imprimante.git'
+1. Cloner le dépôt GitHub: ` git clone https://github.com/rami-mehaibia/Imprimante.git` 
 2. Ouvrir le projet dans NetBeans ou Eclipse.
 3. Pour l'affichage dans le terminal, lancer le fichier App.java.
 4. Pour l'affichage graphique, lancer le fichier Application.java.
