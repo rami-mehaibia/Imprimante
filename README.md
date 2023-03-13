@@ -10,5 +10,8 @@ Si un membre essaie d'imprimer plus que sa limite, l'imprimante n'acceptera pas 
 ## Fonctionnalités:
 
    -Enregistrer le nombre de documents imprimés par chaque membre du laboratoire en un mois.
+   
    -Vérifier si un membre a atteint sa limite d'impression individuelle avant de lui permettre d'imprimer.
+   
    -Empêcher l'impression si le nombre total de feuilles imprimées atteint 1000.
+   
