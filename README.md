@@ -14,4 +14,13 @@ Si un membre essaie d'imprimer plus que sa limite, l'imprimante n'acceptera pas 
    -Vérifier si un membre a atteint sa limite d'impression individuelle avant de lui permettre d'imprimer.
    
    -Empêcher l'impression si le nombre total de feuilles imprimées atteint 1000.
+## Utilisation 
+1. Cloner le dépôt GitHub:
+2. Ouvrir le projet dans NetBeans ou Eclipse.
+3. Pour l'affichage dans le terminal, lancer le fichier App.java.
+4. Pour l'affichage graphique, lancer le fichier Application.java.
+    
+    
+
+
    
